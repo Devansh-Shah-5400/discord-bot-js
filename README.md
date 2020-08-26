@@ -1,8 +1,8 @@
-## Discord Bot Greeter
+## Create Your Own Discord Bot
 
-This is a simple code example on how to start your own Discord bot.
+This is a simple code example on how to start your own Discord bot and How I created my own.
 
-If you just have stumbled to the Git repo directly and no idea how this is being setup, please read my full guide [here](https://medium.com/davao-js/2019-tutorial-creating-your-first-simple-discord-bot-47fc836a170b).
+If you just have stumbled to the Git repo directly and no idea how this is being setup, please read the full guide from where I learnt [here](https://medium.com/davao-js/2019-tutorial-creating-your-first-simple-discord-bot-47fc836a170b).
 
 ## Prerequisites
 
@@ -25,6 +25,6 @@ Simply run the command `node bot.js`
 
 ## Question(s)/Clarification(s)
 
-Please go to the [issues](https://github.com/renesansz/discord-greeter-bot/issues) tab and create a ticket from there. I'll try to help you as much as I can.
+Please go to the main repo from renesansz [issues](https://github.com/renesansz/discord-greeter-bot/issues) tab and create a ticket from there. He'll try to help you as much as he can.You can even create a ticket here and I will try to solve the issue as soon as I can.
 
 PLEASE before you ask, try to re-read the documentation/article if maybe you just have skipped something, then that's the time you ask.
