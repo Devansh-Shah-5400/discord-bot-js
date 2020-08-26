@@ -25,6 +25,6 @@ Simply run the command `node bot.js`
 
 ## Question(s)/Clarification(s)
 
-Please go to the main repo from renesansz [issues](https://github.com/renesansz/discord-greeter-bot/issues) tab and create a ticket from there. He'll try to help you as much as he can.You can even create a ticket here and I will try to solve the issue as soon as I can.
+Please go to the main repo from renesansz [issues](https://github.com/renesansz/discord-greeter-bot/issues) tab and create a ticket from there. He'll try to help you as much as he can. You can even create a ticket here and I will try to solve the issue as soon as I can.
 
 PLEASE before you ask, try to re-read the documentation/article if maybe you just have skipped something, then that's the time you ask.
